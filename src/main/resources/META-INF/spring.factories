@@ -1,0 +1,2 @@
+#自动引用配置的类指定为LzhApiClientConfig这个类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.lzh.lzhapiclientsdk.LzhApiClientConfig
